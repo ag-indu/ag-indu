@@ -13,4 +13,4 @@ I'm a recent BTech graduate from College of Engineering Trivandrum, passionate a
 
 ## 📫 Contact Me
 - Email: indulekhaag@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/indulekha-a-g]
+- LinkedIn: [https://www.linkedin.com/in/indulekha-a-g-955920222/]
