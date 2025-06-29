@@ -25,14 +25,15 @@ I'm a recent BTech graduate from College of Engineering Trivandrum, passionate a
 </p>
 
 ## 📫 Contact Me
+
 <p align="left">
   <!-- Gmail -->
   <a href="mailto:indulekhaag@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/indulekha-a-g-955920222/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
